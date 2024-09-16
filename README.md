@@ -1,3 +1,12 @@
-My Three portoio website
+My Three portfolio website
 
-hiiiiIIIqdwdwd
+Tech Stack
+
+React
+React Three Fiber
+Three js
+Tailwind Css
+React Three drei
+Email.js
+
+Thank You
